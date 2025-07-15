@@ -1,0 +1,15 @@
+{
+  "name": "@miaoma-cli-demo/website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "miaoma-cli-test": "miaoma"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+      "@miaoma-cli-demo/cli": "workspace:*"
+  }
+}
